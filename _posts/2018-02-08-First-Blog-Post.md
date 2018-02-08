@@ -5,3 +5,5 @@ date: 2018-02-08
 ---
 
 We are absolutely terrible at writing quality code, so we're making this horrifyingly unremarkable blog post to practice the skills we don't have.
+
+This site was created by following the excellent guide at http://jmcglone.com/guides/github-pages/
