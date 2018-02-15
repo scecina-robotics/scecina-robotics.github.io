@@ -40,3 +40,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+.post {
+    font-family: ["Trebuchet MS", Helvetica, sans-serif]
