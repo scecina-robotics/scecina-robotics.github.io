@@ -1,4 +1,4 @@
-Today, we began a new project: building a robot to compete against South Putnam High School in Involution. Below, we have included a table  that encompasses the four major components that we anticipate using in our design with an associated icon.
+Today, we began a new project: building a robot to compete against South Putnam High School in the game of ![Involution(/pdf/involution_game.pdf)[PDF]. Below, we have included a table  that encompasses the four major components that we anticipate using in our design with an associated icon.
 
 Component | Icon
 ----------|------
@@ -8,7 +8,6 @@ Trough | ![trough icon](/images/icons/trough.png)
 Scoop |![scoop icon](/images/icons/scoop.png)
 
 Here is a snap shot of our brainstorming session.
-
-{image goes here}
+![Board Screenshot for 2018-02-22](/images/screenshots/board_20180222.jpg)
 
 The real work starts next week.
