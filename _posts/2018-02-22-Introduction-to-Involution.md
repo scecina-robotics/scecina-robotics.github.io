@@ -2,7 +2,7 @@ Today, we began a new project: building a robot to compete against South Putnam 
 
 Component | Icon
 ----------|------
-Base | ![base icon](/images/icons/base.png)
+Base | ![base icon](/images/icons/base.png)<!-- .element height="50px" width="50px" -->
 Dropper | ![dropper icon](/images/icons/dropper.png)
 Trough | ![trough icon](/images/icons/trough.png)
 Scoop |![scoop icon](/images/icons/scoop.png)
