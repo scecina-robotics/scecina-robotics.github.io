@@ -1,9 +1,3 @@
----
-layout: post
-title: "Introduction to Involution"
-date: 2018-02-23
----
-
 Today, we began a new project: building a robot to compete against South Putnam High School in the game of [Involution](/pdf/involution_game.pdf). Below, we have included a table  that encompasses the four major components that we anticipate using in our design with an associated icon.
 
 Component | Icon
