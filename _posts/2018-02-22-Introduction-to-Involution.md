@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction to Involution"
 date: 2018-02-15
+tags: involution competition
 ---
 
 Today, we began a new project: building a robot to compete against South Putnam High School in the game of [Involution](/pdfs/involution_rules.pdf). Below, we have included a table  that encompasses the four major components that we anticipate using in our design with an associated icon.
