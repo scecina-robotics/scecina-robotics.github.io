@@ -2,7 +2,7 @@
 layout: post
 title: "We Have Returned"
 date: 2018-04-19
-tags: website general
+tags: website general involution competition
 ---
 
 It has been over a month since our last post, and although it is highly unlikely that anyone is actually reading these, 
