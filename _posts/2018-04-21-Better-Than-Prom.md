@@ -1,9 +1,9 @@
-------
+---
 layout: post
 title: "Better Than Prom"
 date: 2018-04-21
 tags: involution competition
-------
+---
 
 Today, a Saturday, we had an impromptu meeting to finish up our robot so we can use our Thursday meeting to test the robot and train 
 the drivers. The team has improved significantly, as we have developed a grasp of the resources available to us. Tonight, Scecina is 
