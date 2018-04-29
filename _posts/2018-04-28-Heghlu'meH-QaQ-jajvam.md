@@ -17,3 +17,16 @@ parties involved (except maybe Anthony) and gave both of our rudimentary teams a
 grow. The robot may have fallen over multiple times, but through this it taught us to create a less top-heavy design.
 
 We look forward to the future and what it has to bring for this club, and if today was any indication, that future is bright.
+
+# Images
+
+![The Robot](/pictures/downloaded_images/img_2828.jpg)
+
+
+![The Robot in Action](/pictures/downloaded_images/img_2841.jpg)
+
+
+![The Competition](/pictures/downloaded_images/img_2829.jpg)
+
+
+![Ingame](/pictures/downloaded_images/img_2842.jpg)
