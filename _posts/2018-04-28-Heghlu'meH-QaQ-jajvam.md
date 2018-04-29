@@ -22,11 +22,8 @@ We look forward to the future and what it has to bring for this club, and if tod
 
 ![The Robot](/pictures/downloaded_images/img_2828.jpg)
 
-
 ![The Robot in Action](/pictures/downloaded_images/img_2841.jpg)
 
-
 ![The Competition](/pictures/downloaded_images/img_2829.jpg)
-
 
 ![Ingame](/pictures/downloaded_images/img_2842.jpg)
