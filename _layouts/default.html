@@ -2,7 +2,8 @@
 	<html>
 		{% include head.html %}
 		<body>
-			<nav>
+			<div id="header" class="">
+				<nav>
 				<div style="float:right;">{% include google_translate.html %}</div>
 	    	<ul>
 	        <li><a href="/">Home</a></li>
@@ -10,11 +11,17 @@
 	        <li><a href="/blog">Blog</a></li>
 	    	</ul>
 			</nav>
+			</div>
+			<div id="sidebar">
+				sidebar
+			</div>
+			<div id="content">
 			<div class="container">
 			
 			{{ content }}
 			
 			</div><!-- /.container -->
+			</div>
 		{% include footer.html %}
 		</body>
 	</html>
