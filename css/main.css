@@ -55,6 +55,9 @@ ul.posts li {
     color: #242424;
     text-size: 15pt;
 }
+#main-container{
+    margin: 0;
+}
 #content{
     background-color: #ffffff;
     border-left: 20px solid #987622;
