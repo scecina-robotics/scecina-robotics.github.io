@@ -55,3 +55,7 @@ ul.posts li {
     color: #242424;
     text-size: 15pt;
 }
+#content{
+    background-color: #ffffff;
+    border-left: 15px #987622;
+}
