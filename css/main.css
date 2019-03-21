@@ -51,6 +51,9 @@ ul.posts li {
     padding: 30px 20px;
     margin: 0;
 }
+#header a{
+    color: #ffffff;
+}
 #sidebar{
     background-color: #f0f0f0;
     color: #242424;
