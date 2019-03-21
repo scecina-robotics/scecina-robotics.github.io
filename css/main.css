@@ -55,6 +55,9 @@ ul.posts li {
     color: #f0f0f0;
     font-size: 20pt;
 }
+#header a:hover{
+    color: #987622;
+}
 #sidebar{
     background-color: #f0f0f0;
     color: #242424;
@@ -66,4 +69,3 @@ ul.posts li {
 #content{
     background-color: #ffffff;
     border-left: 20px solid #987622;
-}
